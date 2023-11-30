@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "581558694402",
+    "project_id": "chalo-edf77",
+    "storage_bucket": "chalo-edf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581558694402:android:aa7dfc2e17f24ab169ad1b",
+        "android_client_info": {
+          "package_name": "com.teamBlockheadV2.chalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581558694402-7l3tbpubdn63qshv1sv843cin62tkr1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamBlockheadV2.chalo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "581558694402-qi7lp2h1ilo7h7l21g93aa32p30u196g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn12HfHX4OrvHAIt_7X7unMeX6IERRFPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581558694402-qi7lp2h1ilo7h7l21g93aa32p30u196g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581558694402-uje7q10p5f5emps963o19nmm4kiemd6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamBlockheadV2.chalo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
